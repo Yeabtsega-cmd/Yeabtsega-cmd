@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://mir-s3-cdn-cf.behance.net/1b701e30ae815642f624102f61b82103/edb2df27-b872-4bb2-91c3-e2e79bfc450e_rwc_0x187x6984x1421x6984.jpg?h=57cf9068b60c3d10e12d75fec3712577))]()
 
 <h1 align="center">Hi 👋, I'm Yeabtsega Belayneh</h1>
 <h3 align="center">A passionate frontend developer.</h3>
